@@ -1,5 +1,7 @@
 # Graphing Calculator (Python + Colab)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NguyenLeDatToan/Graphing-calculator/blob/main/graphing_calculator.ipynb)
+
 Dự án máy tính vẽ đồ thị với các chức năng:
 
 - Vẽ một hoặc nhiều hàm số trên cùng hệ trục.

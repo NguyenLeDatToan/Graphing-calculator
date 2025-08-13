@@ -9,6 +9,10 @@ Dự án máy tính vẽ đồ thị với các chức năng:
 - Phóng to/thu nhỏ (zoom) vùng nhìn.
 - Giải phương trình bậc hai và vẽ đồ thị liên quan.
 
+## Liên kết Colab (chia sẻ công khai)
+
+- https://colab.research.google.com/github/NguyenLeDatToan/Graphing-calculator/blob/main/graphing_calculator.ipynb
+
 ## Dùng trên Google Colab
 
 1. Mở Google Colab: https://colab.research.google.com/
